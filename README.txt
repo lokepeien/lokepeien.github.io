@@ -8,5 +8,5 @@ Hi there 👋
 
 💌📫 How to reach me lokeen@graduate.utm.my
 
-📁💡 visit my portfolio https://lokepeien.github.io/
+📁💡 visit my SECP 1513 e-portfolio https://lokepeien.github.io/
 
